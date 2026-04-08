@@ -1,0 +1,14 @@
+C:\Users\PC GAMER\OneDrive\Documentos\Meme Tô Nervoso 2\obj\Debug\net10.0\Meme Tô Nervoso 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC GAMER\OneDrive\Documentos\Meme Tô Nervoso 2\obj\Debug\net10.0\Meme Tô Nervoso 2.AssemblyInfoInputs.cache
+C:\Users\PC GAMER\OneDrive\Documentos\Meme Tô Nervoso 2\obj\Debug\net10.0\Meme Tô Nervoso 2.AssemblyInfo.cs
+C:\Users\PC GAMER\OneDrive\Documentos\Meme Tô Nervoso 2\obj\Debug\net10.0\Meme Tô Nervoso 2.csproj.CoreCompileInputs.cache
+C:\Users\PC GAMER\OneDrive\Documentos\Meme Tô Nervoso 2\bin\Debug\net10.0\Meme Tô Nervoso 2.exe
+C:\Users\PC GAMER\OneDrive\Documentos\Meme Tô Nervoso 2\bin\Debug\net10.0\Meme Tô Nervoso 2.deps.json
+C:\Users\PC GAMER\OneDrive\Documentos\Meme Tô Nervoso 2\bin\Debug\net10.0\Meme Tô Nervoso 2.runtimeconfig.json
+C:\Users\PC GAMER\OneDrive\Documentos\Meme Tô Nervoso 2\bin\Debug\net10.0\Meme Tô Nervoso 2.dll
+C:\Users\PC GAMER\OneDrive\Documentos\Meme Tô Nervoso 2\bin\Debug\net10.0\Meme Tô Nervoso 2.pdb
+C:\Users\PC GAMER\OneDrive\Documentos\Meme Tô Nervoso 2\obj\Debug\net10.0\Meme Tô Nervoso 2.dll
+C:\Users\PC GAMER\OneDrive\Documentos\Meme Tô Nervoso 2\obj\Debug\net10.0\refint\Meme Tô Nervoso 2.dll
+C:\Users\PC GAMER\OneDrive\Documentos\Meme Tô Nervoso 2\obj\Debug\net10.0\Meme Tô Nervoso 2.pdb
+C:\Users\PC GAMER\OneDrive\Documentos\Meme Tô Nervoso 2\obj\Debug\net10.0\Meme Tô Nervoso 2.genruntimeconfig.cache
+C:\Users\PC GAMER\OneDrive\Documentos\Meme Tô Nervoso 2\obj\Debug\net10.0\ref\Meme Tô Nervoso 2.dll
