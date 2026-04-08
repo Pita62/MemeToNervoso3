@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Meme Tô Nervoso 2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d706275fccfb6bb251621a2321fa87db5b44dac3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Meme Tô Nervoso 2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Meme Tô Nervoso 2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
